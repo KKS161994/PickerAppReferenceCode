@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019388182889",
+    "firebase_url": "https://opencart-wms.firebaseio.com",
+    "project_id": "opencart-wms",
+    "storage_bucket": "opencart-wms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019388182889:android:707b7626fd7bf2a358bdf8",
+        "android_client_info": {
+          "package_name": "com.webkul.mobikul.opencart_wms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019388182889-87r8h6ir1033g0s8djgff0qpk5qdm1ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgtkm_AWN3EWW0JlVpBTbPNdAF9Ispzzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019388182889-87r8h6ir1033g0s8djgff0qpk5qdm1ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
